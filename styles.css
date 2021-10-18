@@ -5,6 +5,9 @@
     font-family: 'Roboto', sans-serif;
     color:#333;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     background-color: #eee;;
 }
@@ -137,6 +140,7 @@ header h3{
     margin:auto;
 }
 .page2 h1{
+    padding-top:65px;
     text-align: center;
     font-size: 3rem;
     color:rgb(51, 51, 51);
